@@ -342,17 +342,39 @@ section {
     font-size: 30px;
 }
 
-.html {
+.cplus {
     animation: html 2s;
+    width: 90%;
+}
+.html {
+    animation: js 2s;
     width: 80%;
 }
-
-
 .css {
     animation: css 2s;
-    width: 70%;
+    width: 60%;
 }
 
+.php {
+    animation: js 2s;
+    width: 60%;
+}
+.mySQl {
+    animation: js 2s;
+    width: 50%;
+}
+.python {
+    animation: js 2s;
+    width: 60%;
+}
+.java {
+    animation: js 2s;
+    width: 70%;
+}
+.C {
+    animation: js 2s;
+    width: 80%;
+}
 .js {
     animation: js 2s;
     width: 60%;
